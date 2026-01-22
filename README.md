@@ -14,7 +14,7 @@ A Python script that scans Polymarket for cheap longshot opportunities. It:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/polymarket-moonshot.git
+git clone https://github.com/sorcerai/polymarket-moonshot.git
 cd polymarket-moonshot
 pip install -r requirements.txt
 ```
